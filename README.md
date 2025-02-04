@@ -52,8 +52,9 @@ API_KEY = "your_tmdb_api_key"
 ```
 
 ## Example Output
-![Movie Recommender Screenshot](<img width="1498" alt="Screenshot 2025-02-04 at 9 21 20 AM" src="https://github.com/user-attachments/assets/acab5276-36b9-4363-9307-9639f8aa5774" />
-)
+![Movie Recommender Screenshot]
+<img width="1498" alt="Screenshot 2025-02-04 at 9 21 20 AM" src="https://github.com/user-attachments/assets/249ad93b-99d5-44ed-a55a-788fe75c0a33" />
+
 
 ## Future Improvements
 - 🎯 **Improve Recommendation Algorithm** using deep learning.
