@@ -60,12 +60,4 @@ API_KEY = "your_tmdb_api_key"
 - 🌎 **Add Genre-based Recommendations**.
 - 🔍 **Enhance Search & Filtering Options**.
 
-## License
-This project is **open-source** and available under the [MIT License](LICENSE).
-
-## Contributors
-👤 **[Your Name]** - *Developer & Maintainer*
-
----
-Made with ❤️ using **Streamlit & Python**
 
